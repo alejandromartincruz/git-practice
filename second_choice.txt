@@ -1,0 +1,3 @@
+<p color=“green”>You are <b>in</b> a room <b>with</b> three doors.<br>
+Which door will you go through?</p>
+<p color=“blue”>I will pass through the <b>third</b> door</p>
